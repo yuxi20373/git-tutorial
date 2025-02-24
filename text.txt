@@ -1,1 +1,1 @@
-I like git.
+I love git.
